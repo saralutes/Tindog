@@ -117,6 +117,13 @@ h3 {
 .icon:hover {
   color: #F21170;
 }
+@media (max-width: 1028px) {
+  #features-paragraph {
+    color: #8f8f8f;
+    font-family: 'Marcellus';
+    font-size: 1rem;
+  }
+}
 
 /* Testimonials */
 
